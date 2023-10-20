@@ -8,10 +8,7 @@
 ## 3. Cách tạo:
 
 - Clone source code hoặc tải về từ GitHub:
-```sh
-git clone https://github.com/Tungchaphet/Chino-chan-Bot.git
-cd Chino-chan-Bot
-```
+
 - Tải các thư viện npm cần thiết:
 ```
 npm i
